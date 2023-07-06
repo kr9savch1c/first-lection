@@ -1,0 +1,15 @@
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\bin\Debug\net6.0\прог.exe
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\bin\Debug\net6.0\прог.deps.json
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\bin\Debug\net6.0\прог.runtimeconfig.json
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\bin\Debug\net6.0\прог.dll
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\bin\Debug\net6.0\прог.pdb
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.csproj.AssemblyReference.cache
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.AssemblyInfoInputs.cache
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.AssemblyInfo.cs
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.csproj.CoreCompileInputs.cache
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.dll
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\refint\прог.dll
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.pdb
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\прог.genruntimeconfig.cache
+C:\Users\gadik\Desktop\QA\3.Знакомство с языками программирования\Лекции\1.Знакомство с языком программирования C#\прог\obj\Debug\net6.0\ref\прог.dll
